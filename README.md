@@ -1,4 +1,4 @@
-# github_customizer
+# grub_customizer
 Mostly for myself but you can use it aswell :)
 
 
